@@ -1,0 +1,142 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Vinindu Manula Siriwardhana
+  given: Vinindu
+  family: Siriwardhana
+  pronouns: he/him
+
+status:
+  icon: "☕️"
+
+role: Biomedical Engineering Undergraduate
+
+bio: |
+  Biomedical Engineering undergraduate at the University of Hong Kong with a strong
+  foundation in engineering principles, mathematics, and scientific analysis.
+  Experienced in leadership, volunteering, and interdisciplinary collaboration.
+  Passionate about applying technology to solve real-world problems in healthcare
+  and society.
+
+affiliations:
+  - name: The University of Hong Kong
+    url: https://www.hku.hk/
+
+links:
+  - icon: at-symbol
+    url: mailto:vinidusiri@gmail.com
+    label: E-mail
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/vinindu-siriwardhana/
+
+interests:
+  - Biomedical Engineering
+  - Healthcare Technology
+  - Engineering Design
+  - Data & Computational Tools
+  - Community Service
+
+education:
+  - degree: Bachelor of Engineering in Biomedical Engineering
+    institution: University of Hong Kong
+    start: 2025-01-01
+    end: 2029-12-31
+    summary: |
+      Undergraduate program focused on engineering principles applied to biological
+      and medical systems.
+
+  - degree: G.C.E. Advanced Level (Physical Science Stream)
+    institution: Royal College, Colombo
+    end: 2023-12-31
+    summary: |
+      Achieved 4 A grades (highest achievable grade).
+
+  - degree: G.C.E. Ordinary Level
+    institution: Royal College, Colombo
+    end: 2020-12-31
+    summary: |
+      Achieved 9 A grades (highest achievable grade).
+
+experience:
+  - role: Legal Assistant
+    org: AV Business Solutions (PVT) LTD
+    start: 2024-05-01
+    end: 2024-09-30
+    summary: |
+      Assisted with documentation, coordination, and administrative support in a
+      professional business environment.
+
+  - role: Content Researcher
+    org: ESG Podcast, HKU
+    start: 2024-02-01
+    summary: |
+      Conducted research and supported content development related to sustainability
+      and ESG topics.
+
+  - role: Peer Supporter
+    org: HKU CEADARS
+    start: 2024-02-01
+    summary: |
+      Supported student wellbeing initiatives and peer guidance programs.
+
+leadership:
+  - role: Senior Prefect
+    org: Royal College, Colombo
+    start: 2023-01-01
+    end: 2024-01-01
+
+  - role: Chairman
+    org: Art Circle, Royal College
+    start: 2022-01-01
+    end: 2023-01-01
+
+  - role: Secretary
+    org: Green Circle, Royal College
+    start: 2022-01-01
+    end: 2023-01-01
+
+  - role: IT Coordinator
+    org: Art Circle, Royal College
+    start: 2021-01-01
+    end: 2022-01-01
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 4
+      - label: MATLAB
+        level: 4
+      - label: CAD / Design Software
+        level: 3
+
+  - name: Professional Skills
+    items:
+      - label: Project Management
+        level: 4
+      - label: Technical Documentation
+        level: 4
+      - label: Cross-functional Collaboration
+        level: 4
+      - label: Laboratory & Experimental Skills
+        level: 3
+
+volunteering:
+  - role: Educator
+    org: Sasnaka Sansada (Non-Profit Organization)
+
+  - role: Educator
+    org: Sunday School
+
+  - role: Member
+    org: Lions Club of Cinnamon Gardens
+
+  - role: Founder
+    org: Zenith Psyche
+
+languages:
+  - name: English
+    level: 5
+    label: Fluent
