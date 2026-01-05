@@ -1,6 +1,6 @@
 
 
-<h1 align="center">This site feature Vinindu Siriwardhane's portfolio </h1>
+<h1 align="center">This site features Vinindu Siriwardhane's portfolio </h1>
 
 
 
